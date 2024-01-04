@@ -1,3 +1,6 @@
+**
+Note ** 
+Before running this please run th Backend part of this project for all the features
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
